@@ -2,7 +2,7 @@ Hi,
 
 A clean, multi-tenant customer portal with RBAC, tickets, contracts, and asset management — built a working version to show my approach:
 
-**Built this for your project:** {VERCEL_URL}
+**Built this for your project:** https://customer-portal-xi-one.vercel.app
 
 The demo includes a full dashboard with filtering, 5 entity pages (tickets, projects, documents, contracts, assets), role-based navigation, and search across all modules. Built on Next.js + TypeScript with clean separation between data, components, and routes.
 
